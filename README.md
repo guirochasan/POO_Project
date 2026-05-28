@@ -7,44 +7,47 @@ Matricula: 20250019133
 
 Esse é um aplicativo que segue o modelo padrão de flashcards inteligentes como anki, porém com a adição de um algoritmo de pop up inteligente que calcula horários aleatórios e faz um pop up aparecer na tela do computador para chamar o usuário a engajar no processo de memorização.
 
-```mermaid
+## Diagrama UML de Classes
 
+```mermaid
 classDiagram
     class Kanji {
         -string literal_
-        -int stroke_count_
+        +Kanji(string literal)
+        +~Kanji()
         +get_literal() string
-        +get_stroke_count() int
-        +exibir_info() void
     }
 
     class Deck {
-        -string deck_name_
+        -string name_
         -vector~unique_ptr~Kanji~~ kanjis_
-        +renomear(string novo_nome) void
-        +get_deck_name() string
+        +Deck(string name)
+        +~Deck()
+        +add_kanji(string literal) void
+        +get_name() string
+        +listar_kanjis() void
     }
 
     class User {
         -string name_
-        -int level_
-        +subir_nivel() void
+        +User(string name)
+        +~User()
+        +get_name() string
+        +estudar() void
     }
 
     class StudySession {
-        -int duration_minutes_
-        -Deck* deck_ref
-        -User* user_ref
-        +registrar_progresso(int k) void
+        -shared_ptr~Deck~ deck_ref_
+        -shared_ptr~User~ user_ref_
+        +StudySession(shared_ptr~Deck~ deck, shared_ptr~User~ user)
+        +~StudySession()
+        +rodar_sessao() void
     }
 
-    %% Composição: Deck é dono dos Kanjis
-    Deck "1" *-- "1..*" Kanji : contém
-
-    %% Agregação: Sessão referencia Deck e User
-    StudySession o-- Deck : usa
-    StudySession o-- User : usa
-```
+    %% Relacionamentos baseados no ciclo de vida do código
+    Deck "1" *-- "0..*" Kanji : Composição (Q3-A / Q4-A via unique_ptr)
+    StudySession "0..*" o-- "1" Deck : Agregação (Q3-B / Q4-A via shared_ptr)
+    StudySession "0..*" o-- "1" User : Agregação (Q3-B / Q4-A via shared_ptr)
 
 ## Descrição das Classes
 Kanji: Representa a unidade básica de aprendizado. Armazena o próprio ideograma (literal_) e informações relevantes do caractere, como a quantidade de traços (stroke_count_).
