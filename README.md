@@ -47,6 +47,7 @@ classDiagram
     Deck "1" *-- "0..*" Kanji : Composição
     StudySession "0..*" o-- "1" Deck : Agregação
     StudySession "0..*" o-- "1" User : Agregação
+```
 
 ## Descrição das Classes
 Kanji: Representa a unidade básica de aprendizado. Armazena o próprio ideograma (literal_) e informações relevantes do caractere, como a quantidade de traços (stroke_count_).
