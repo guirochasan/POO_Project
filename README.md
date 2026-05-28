@@ -44,10 +44,9 @@ classDiagram
         +rodar_sessao() void
     }
 
-    %% Relacionamentos baseados no ciclo de vida do código
-    Deck "1" *-- "0..*" Kanji : Composição (Q3-A / Q4-A via unique_ptr)
-    StudySession "0..*" o-- "1" Deck : Agregação (Q3-B / Q4-A via shared_ptr)
-    StudySession "0..*" o-- "1" User : Agregação (Q3-B / Q4-A via shared_ptr)
+    Deck "1" *-- "0..*" Kanji : Composição
+    StudySession "0..*" o-- "1" Deck : Agregação
+    StudySession "0..*" o-- "1" User : Agregação
 
 ## Descrição das Classes
 Kanji: Representa a unidade básica de aprendizado. Armazena o próprio ideograma (literal_) e informações relevantes do caractere, como a quantidade de traços (stroke_count_).
