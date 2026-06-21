@@ -7,6 +7,22 @@ Matricula: 20250019133
 
 Esse é um aplicativo que segue o modelo padrão de flashcards inteligentes como anki, porém com a adição de um algoritmo de pop up inteligente que calcula horários aleatórios e faz um pop up aparecer na tela do computador para chamar o usuário a engajar no processo de memorização.
 
+## Dependências
+ 1. Atualize a lista de pacotes
+sudo apt update
+
+ 2. Instale o kit de desenvolvimento do Qt5 (o framework da GUI)
+sudo apt install qtbase5-dev qt5-qmake
+
+ 3. Instale a biblioteca de manipulação de JSON (nlohmann-json)
+sudo apt install nlohmann-json3-dev
+
+ 4. Instale as ferramentas essenciais de build (compilador, make, cmake)
+sudo apt install build-essential cmake
+
+ 5. (Opcional) Instale o QtCreator se quiser uma IDE visual para editar as janelas
+sudo apt install qtcreator
+
 ## Diagrama UML de Classes
 
 ```mermaid
