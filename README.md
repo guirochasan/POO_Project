@@ -9,25 +9,25 @@ Esse é um aplicativo que segue o modelo padrão de flashcards inteligentes como
 
 ## Dependências
 
- 1. Atualize a lista de pacotes
+ ### 1. Atualize a lista de pacotes
 
-   sudo apt update
+    sudo apt update
 
- 2. Instale o kit de desenvolvimento do Qt5 (o framework da GUI)
+ ### 2. Instale o kit de desenvolvimento do Qt5 (o framework da GUI)
 
-   sudo apt install qtbase5-dev qt5-qmake
+    sudo apt install qtbase5-dev qt5-qmake
 
- 3. Instale a biblioteca de manipulação de JSON (nlohmann-json)
+ ### 3. Instale a biblioteca de manipulação de JSON (nlohmann-json)
 
-   sudo apt install nlohmann-json3-dev
+    sudo apt install nlohmann-json3-dev
 
- 4. Instale as ferramentas essenciais de build (compilador, make, cmake)
+ ### 4. Instale as ferramentas essenciais de build (compilador, make, cmake)
 
-   sudo apt install build-essential cmake
+    sudo apt install build-essential cmake
 
- 6. (Opcional) Instale o QtCreator se quiser uma IDE visual para editar as janelas
+ ### 6. (Opcional) Instale o QtCreator se quiser uma IDE visual para editar as janelas
 
-   sudo apt install qtcreator
+    sudo apt install qtcreator
 
 ## Diagrama UML de Classes
 
