@@ -1,0 +1,2869 @@
+[
+  {
+    "kanji": "一",
+    "leitura": "イチ (ichi), ひとつ (hitotsu)",
+    "significado": "um",
+    "nivel": 6,
+    "proxima_revisao": "2026-06-28T20:09:41.301758"
+  },
+  {
+    "kanji": "丁",
+    "leitura": "チョウ (chou), テイ (tei)",
+    "significado": "4º signo do calendário, contador de ferramentas/folhas, rua",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-29T12:51:57.285798"
+  },
+  {
+    "kanji": "七",
+    "leitura": "シチ (shichi), ななつ (nanatsu)",
+    "significado": "sete",
+    "nivel": 4,
+    "proxima_revisao": "2026-04-25T12:28:41.518197"
+  },
+  {
+    "kanji": "万",
+    "leitura": "マン (man), バン (ban)",
+    "significado": "dez mil, tudo",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T21:59:05.544544"
+  },
+  {
+    "kanji": "三",
+    "leitura": "サン (san), みっつ (mittsu)",
+    "significado": "três",
+    "nivel": 4,
+    "proxima_revisao": "2026-06-21T19:15:14.592470"
+  },
+  {
+    "kanji": "上",
+    "leitura": "ジョウ (jou), うえ (ue), あがる (agaru)",
+    "significado": "acima, cima, subir",
+    "nivel": 3,
+    "proxima_revisao": "2026-06-19T20:06:55.454416"
+  },
+  {
+    "kanji": "下",
+    "leitura": "カ (ka), ゲ (ge), した (shita), さがる (sagaru)",
+    "significado": "abaixo, baixo, descer",
+    "nivel": 4,
+    "proxima_revisao": "2026-06-22T20:02:56.576381"
+  },
+  {
+    "kanji": "不",
+    "leitura": "フ (fu), ブ (bu)",
+    "significado": "não, negativo, mau",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-28T18:35:53.445908"
+  },
+  {
+    "kanji": "与",
+    "leitura": "ヨ (yo), あたえる (ataeru)",
+    "significado": "conceder, dar, participar",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-12T22:31:25.849886"
+  },
+  {
+    "kanji": "丑",
+    "leitura": "チュウ (chuu), うし (ushi)",
+    "significado": "signo do boi, 1-3 da manhã",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-09T20:25:07.528344"
+  },
+  {
+    "kanji": "且",
+    "leitura": "ショ (sho), かつ (katsu)",
+    "significado": "além disso, além de",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-13T12:36:56.455099"
+  },
+  {
+    "kanji": "世",
+    "leitura": "セイ (sei), セ (se), よ (yo)",
+    "significado": "geração, mundo, sociedade",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T18:54:18.322284"
+  },
+  {
+    "kanji": "丘",
+    "leitura": "キュウ (kyuu), おか (oka)",
+    "significado": "colina, outeiro",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-13T12:39:41.437921"
+  },
+  {
+    "kanji": "丙",
+    "leitura": "ヘイ (hei), ひのえ (hinoe)",
+    "significado": "3º signo do calendário, terceira classe",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T21:59:12.896599"
+  },
+  {
+    "kanji": "丞",
+    "leitura": "ジョウ (jou), すくう (sukuu)",
+    "significado": "ajudar, auxiliar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:04:43.493231"
+  },
+  {
+    "kanji": "両",
+    "leitura": "リョウ (ryou), ふたつ (futatsu)",
+    "significado": "ambos, dois, contador de carruagens",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-09T19:15:26.717863"
+  },
+  {
+    "kanji": "並",
+    "leitura": "ヘイ (hei), なみ (nami), ならぶ (narabu)",
+    "significado": "fila, comum, alinhar, igualar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:21:45.933298"
+  },
+  {
+    "kanji": "中",
+    "leitura": "チュウ (chuu), なか (naka)",
+    "significado": "dentro, meio, centro",
+    "nivel": 6,
+    "proxima_revisao": "2026-06-28T20:08:47.110546"
+  },
+  {
+    "kanji": "丸",
+    "leitura": "ガン (gan), まる (maru)",
+    "significado": "redondo, círculo, completo, sufixo para navios",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-25T18:59:26.002777"
+  },
+  {
+    "kanji": "丹",
+    "leitura": "タン (tan), に (ni)",
+    "significado": "vermelho vivo, sinceridade, pílula",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T21:59:21.352627"
+  },
+  {
+    "kanji": "主",
+    "leitura": "シュ (shu), ぬし (nushi), おも (omo)",
+    "significado": "mestre, senhor, principal, dono",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:15:08.063839"
+  },
+  {
+    "kanji": "乃",
+    "leitura": "ナイ (nai), ダイ (dai), の (no)",
+    "significado": "partícula possessiva, de, consequentemente",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-09T21:01:15.005548"
+  },
+  {
+    "kanji": "久",
+    "leitura": "キュウ (kyuu), ひさしい (hisashii)",
+    "significado": "longo tempo, antigo",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-02T16:35:30.044202"
+  },
+  {
+    "kanji": "之",
+    "leitura": "シ (shi), これ (kore), の (no)",
+    "significado": "de, este (clássico)",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-28T18:35:13.286259"
+  },
+  {
+    "kanji": "乏",
+    "leitura": "ボウ (bou), とぼしい (toboshii)",
+    "significado": "escassez, limitado, pobre",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-30T10:18:35.112828"
+  },
+  {
+    "kanji": "乗",
+    "leitura": "ジョウ (jou), のる (noru)",
+    "significado": "montar, andar de veículo, multiplicação",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-22T10:26:21.212263"
+  },
+  {
+    "kanji": "乙",
+    "leitura": "オツ (otsu), おと (oto)",
+    "significado": "o segundo, estranho, elegante",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-04T02:10:32.590807"
+  },
+  {
+    "kanji": "九",
+    "leitura": "キュウ (kyuu), ク (ku), ここのつ (kokonotsu)",
+    "significado": "nove",
+    "nivel": 6,
+    "proxima_revisao": "2026-06-28T20:09:43.885813"
+  },
+  {
+    "kanji": "也",
+    "leitura": "ヤ (ya), なり (nari)",
+    "significado": "ser (clássico), partícula final",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:20:26.541601"
+  },
+  {
+    "kanji": "乱",
+    "leitura": "ラン (ran), みだれる (midareru)",
+    "significado": "desordem, revolta, guerra",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-05T00:05:25.526407"
+  },
+  {
+    "kanji": "乳",
+    "leitura": "ニュウ (nyuu), ちち (chichi)",
+    "significado": "leite, seios",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-09T19:03:21.028811"
+  },
+  {
+    "kanji": "乾",
+    "leitura": "カン (kan), かわく (kawaku)",
+    "significado": "secar, seca, céu",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:17:38.359001"
+  },
+  {
+    "kanji": "亀",
+    "leitura": "キ (ki), かめ (kame)",
+    "significado": "tartaruga",
+    "nivel": 4,
+    "proxima_revisao": "2026-06-21T19:20:49.421224"
+  },
+  {
+    "kanji": "了",
+    "leitura": "リョウ (ryou)",
+    "significado": "concluir, terminar, entender",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-09T18:11:14.306095"
+  },
+  {
+    "kanji": "予",
+    "leitura": "ヨ (yo), あらかじめ (arakajime)",
+    "significado": "eu, previamente, antes",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-04T13:20:23.400721"
+  },
+  {
+    "kanji": "争",
+    "leitura": "ソウ (sou), あらそう (arasou)",
+    "significado": "disputa, lutar, argumentar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:16:50.614927"
+  },
+  {
+    "kanji": "事",
+    "leitura": "ジ (ji), こと (koto)",
+    "significado": "assunto, coisa, facto, negócio",
+    "nivel": 1,
+    "proxima_revisao": "2026-03-19T22:00:10.914068"
+  },
+  {
+    "kanji": "二",
+    "leitura": "ニ (ni), ふたつ (futatsu)",
+    "significado": "dois",
+    "nivel": 8,
+    "proxima_revisao": "2026-07-04T20:06:37.879938"
+  },
+  {
+    "kanji": "互",
+    "leitura": "ゴ (go), たがい (tagai)",
+    "significado": "mútuo, recíproco, um ao outro",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T21:56:52.297909"
+  },
+  {
+    "kanji": "五",
+    "leitura": "ゴ (go), いつつ (itutsu)",
+    "significado": "cinco",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-04T13:09:20.736098"
+  },
+  {
+    "kanji": "井",
+    "leitura": "セイ (sei), い (i)",
+    "significado": "poço, comunidade",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:13:13.111886"
+  },
+  {
+    "kanji": "亘",
+    "leitura": "カン (kan), わたる (wataru)",
+    "significado": "estender-se, abranger",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-04T00:40:34.319860"
+  },
+  {
+    "kanji": "亜",
+    "leitura": "ア (a)",
+    "significado": "Ásia, vir depois, ranking seguinte",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-09T19:39:13.729033"
+  },
+  {
+    "kanji": "亡",
+    "leitura": "ボウ (bou), モウ (mou), なくなる (nakunaru)",
+    "significado": "falecido, morrer, perecer",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:16:09.031076"
+  },
+  {
+    "kanji": "交",
+    "leitura": "コウ (kou), まじわる (majiwaru), まぜる (mazeru)",
+    "significado": "associação, mistura, intercâmbio, cruzamento",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T21:56:41.802136"
+  },
+  {
+    "kanji": "亥",
+    "leitura": "ガイ (gai), カイ (kai), い (i)",
+    "significado": "signo do porco (zodíaco chinês), 21h-23h",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:09:23.971060"
+  },
+  {
+    "kanji": "亦",
+    "leitura": "エキ (eki), ヤク (yaku), また (mata)",
+    "significado": "também, novamente",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T22:33:16.908117"
+  },
+  {
+    "kanji": "亨",
+    "leitura": "コウ (kou), キョウ (kyou), とおる (tooru)",
+    "significado": "passar por, correr suavemente",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:01:11.175634"
+  },
+  {
+    "kanji": "享",
+    "leitura": "キョウ (kyou), うける (ukeru)",
+    "significado": "desfrutar, receber, suportar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-09T18:29:43.047470"
+  },
+  {
+    "kanji": "京",
+    "leitura": "キョウ (kyou), ケイ (kei), みやこ (miyako)",
+    "significado": "capital, 10 quadrilhões",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-23T00:44:08.450069"
+  },
+  {
+    "kanji": "亭",
+    "leitura": "テイ (tei)",
+    "significado": "pavilhão, restaurante, mansão, coreto",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-09T22:07:52.563103"
+  },
+  {
+    "kanji": "亮",
+    "leitura": "リョウ (ryou), あきらか (akiraka)",
+    "significado": "claro, ajuda",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:19:20.230219"
+  },
+  {
+    "kanji": "人",
+    "leitura": "ジン (jin), ニン (nin), ひと (hito)",
+    "significado": "pessoa, ser humano",
+    "nivel": 6,
+    "proxima_revisao": "2026-04-22T01:09:41.983431"
+  },
+  {
+    "kanji": "仁",
+    "leitura": "ジン (jin), ニ (ni)",
+    "significado": "benevolência, caridade, virtude, humanidade",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:13:22.999816"
+  },
+  {
+    "kanji": "今",
+    "leitura": "コン (kon), キン (kin), いま (ima)",
+    "significado": "agora",
+    "nivel": 4,
+    "proxima_revisao": "2026-04-07T02:30:14.280905"
+  },
+  {
+    "kanji": "介",
+    "leitura": "カイ (kai)",
+    "significado": "mediar, estar entre, marisco",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-02T00:35:06.287237"
+  },
+  {
+    "kanji": "仏",
+    "leitura": "ブツ (butsu), ほとけ (hotoke)",
+    "significado": "Buda, França, os mortos",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:16:35.630842"
+  },
+  {
+    "kanji": "仕",
+    "leitura": "シ (shi), ジ (ji), つかえる (tsukaeru)",
+    "significado": "servir, oficial, fazer",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-25T19:55:21.703525"
+  },
+  {
+    "kanji": "他",
+    "leitura": "タ (ta), ほか (hoka)",
+    "significado": "outro, outro (pessoa/coisa)",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-02T00:17:35.603689"
+  },
+  {
+    "kanji": "付",
+    "leitura": "フ (fu), つける (tsukeru), つく (tsuku)",
+    "significado": "anexar, aderir, anexado a",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-04T21:56:11.805295"
+  },
+  {
+    "kanji": "仙",
+    "leitura": "セン (sen)",
+    "significado": "eremita, mago, centavo",
+    "nivel": 1,
+    "proxima_revisao": "2026-04-05T01:10:31.335728"
+  },
+  {
+    "kanji": "代",
+    "leitura": "ダイ (dai), タイ (tai), かわる (kawaru), よ (yo)",
+    "significado": "substituir, era, período, preço, geração",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T00:06:16.960090"
+  },
+  {
+    "kanji": "令",
+    "leitura": "レイ (rei)",
+    "significado": "comando, ordem, leis, bom",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:18:34.734149"
+  },
+  {
+    "kanji": "以",
+    "leitura": "イ (i), もって (motte)",
+    "significado": "por meio de, por causa de, em vista de",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-04T01:21:09.351487"
+  },
+  {
+    "kanji": "伊",
+    "leitura": "イ (i)",
+    "significado": "aquele, Itália",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:11:20.785758"
+  },
+  {
+    "kanji": "仰",
+    "leitura": "ギョウ (gyou), コウ (kou), あ仰ぐ (aogu)",
+    "significado": "olhar para cima, respeitar, depender de",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-02T00:33:52.608414"
+  },
+  {
+    "kanji": "仲",
+    "leitura": "チュウ (chuu), なか (naka)",
+    "significado": "relação, intermediário, meio",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-30T10:17:42.841300"
+  },
+  {
+    "kanji": "件",
+    "leitura": "ケン (ken)",
+    "significado": "assunto, caso, incidente",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-09T20:24:14.360376"
+  },
+  {
+    "kanji": "任",
+    "leitura": "ニン (nin), まかせる (makaseru)",
+    "significado": "responsabilidade, confiar a, dever",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-13T12:39:52.925263"
+  },
+  {
+    "kanji": "企",
+    "leitura": "キ (ki), くわだてる (kuwadateru)",
+    "significado": "planejar, projeto, empresa"
+  },
+  {
+    "kanji": "伏",
+    "leitura": "フク (fuku), ふせる (fuseru)",
+    "significado": "prostrar-se, curvar-se, esconder",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-28T19:18:23.163700"
+  },
+  {
+    "kanji": "伐",
+    "leitura": "バツ (batsu), ハツ (hatsu)",
+    "significado": "cortar (árvores), abater, atacar",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T16:42:02.234493"
+  },
+  {
+    "kanji": "休",
+    "leitura": "キュウ (kyuu), やすむ (yasumu)",
+    "significado": "descansar, folga, dormir"
+  },
+  {
+    "kanji": "会",
+    "leitura": "カイ (kai), エ (e), あう (au)",
+    "significado": "reunião, encontro, associação",
+    "nivel": 2,
+    "proxima_revisao": "2026-06-16T20:04:24.024196"
+  },
+  {
+    "kanji": "伝",
+    "leitura": "デン (den), つたえる (tsutaeru)",
+    "significado": "transmitir, reportar, tradição"
+  },
+  {
+    "kanji": "伯",
+    "leitura": "ハク (haku)",
+    "significado": "conde, tio, Brasil (em contextos antigos/abreviados)",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:22:59.269021"
+  },
+  {
+    "kanji": "伴",
+    "leitura": "ハン (han), バン (ban), ともなう (tomonau)",
+    "significado": "acompanhar, seguir, comitiva"
+  },
+  {
+    "kanji": "伸",
+    "leitura": "シン (shin), のびる (nobiru)",
+    "significado": "esticar, expandir, crescer",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-02T10:10:51.276905"
+  },
+  {
+    "kanji": "伺",
+    "leitura": "シ (shi), うかがう (ukagau)",
+    "significado": "visitar, perguntar, inquirir (humilde)",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:13:47.520123"
+  },
+  {
+    "kanji": "似",
+    "leitura": "ジ (ji), にる (niru)",
+    "significado": "parecer-se com, assemelhar-se",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-01T19:55:25.985444"
+  },
+  {
+    "kanji": "但",
+    "leitura": "タン (tan), ただし (tadashi)",
+    "significado": "contudo, porém, mas",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-04T21:52:43.934854"
+  },
+  {
+    "kanji": "位",
+    "leitura": "イ (i), くらい (kurai)",
+    "significado": "posição, rank, trono, cerca de",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-13T12:41:00.485291"
+  },
+  {
+    "kanji": "低",
+    "leitura": "テイ (tei), ひくい (hikui)",
+    "significado": "baixo, humilde, curto",
+    "nivel": 2,
+    "proxima_revisao": "2026-04-05T01:09:58.215563"
+  },
+  {
+    "kanji": "住",
+    "leitura": "ジュウ (juu), すむ (sumu)",
+    "significado": "residir, morar, viver",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-23T23:16:48.657841"
+  },
+  {
+    "kanji": "佐",
+    "leitura": "サ (sa)",
+    "significado": "ajudar, assistente",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-13T01:07:46.401457"
+  },
+  {
+    "kanji": "佑",
+    "leitura": "ユウ (yuu), ウ (u), たすける (tasukeru)",
+    "significado": "ajudar, salvar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:18:01.606475"
+  },
+  {
+    "kanji": "体",
+    "leitura": "タイ (tai), テイ (tei), からだ (karada)",
+    "significado": "corpo, objeto, realidade",
+    "nivel": 1,
+    "proxima_revisao": "2026-03-19T19:45:25.540375"
+  },
+  {
+    "kanji": "何",
+    "leitura": "カ (ka), なに (nani), なん (nan)",
+    "significado": "o quê, qual",
+    "nivel": 6,
+    "proxima_revisao": "2026-06-28T20:02:42.952153"
+  },
+  {
+    "kanji": "余",
+    "leitura": "ヨ (yo), あまる (amaru)",
+    "significado": "excesso, sobra, demais",
+    "nivel": 2,
+    "proxima_revisao": "2026-06-04T21:57:57.499501"
+  },
+  {
+    "kanji": "作",
+    "leitura": "サク (saku), サ (sa), つくる (tsukuru)",
+    "significado": "fazer, produzir, criar",
+    "nivel": 2,
+    "proxima_revisao": "2026-06-04T21:47:59.785318"
+  },
+  {
+    "kanji": "佳",
+    "leitura": "カ (ka)",
+    "significado": "excelente, belo, bom",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-26T00:41:14.168998"
+  },
+  {
+    "kanji": "併",
+    "leitura": "ヘイ (hei), あわせる (awaseru)",
+    "significado": "juntar, unir, ao mesmo tempo",
+    "nivel": 0,
+    "proxima_revisao": "2026-02-16T15:34:29.979994"
+  },
+  {
+    "kanji": "使",
+    "leitura": "シ (shi), つかう (tsukau)",
+    "significado": "usar, utilizar, mensageiro"
+  },
+  {
+    "kanji": "例",
+    "leitura": "レイ (rei), たとえば (tatoeba)",
+    "significado": "exemplo, costume, precedente",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-12T22:02:42.720828"
+  },
+  {
+    "kanji": "侍",
+    "leitura": "ジ (ji), さむらい (samurai)",
+    "significado": "samurai, esperar por, servir",
+    "nivel": 3,
+    "proxima_revisao": "2026-04-03T15:13:21.026541"
+  },
+  {
+    "kanji": "供",
+    "leitura": "キョウ (kyou), そなえる (sonaeru), とも (tomo)",
+    "significado": "oferecer, companheiro, servo",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T14:00:27.921906"
+  },
+  {
+    "kanji": "依",
+    "leitura": "イ (i), エ (e), よる (yoru)",
+    "significado": "depender de, basear-se em",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:16:19.703187"
+  },
+  {
+    "kanji": "価",
+    "leitura": "カ (ka), あたい (atai)",
+    "significado": "valor, preço, mérito",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-02T06:21:09.693581"
+  },
+  {
+    "kanji": "侮",
+    "leitura": "ブ (bu), あなどる (anadoru)",
+    "significado": "desprezar, desdenhar",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-26T01:00:21.022871"
+  },
+  {
+    "kanji": "侯",
+    "leitura": "コウ (kou)",
+    "significado": "marquês, senhor feudal",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:04:28.437850"
+  },
+  {
+    "kanji": "侵",
+    "leitura": "シン (shin), おかす (okasu)",
+    "significado": "invadir, violar, atacar",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-29T16:53:03.107995"
+  },
+  {
+    "kanji": "便",
+    "leitura": "ベン (ben), ビン (bin), たより (tayori)",
+    "significado": "conveniência, correio, fezes",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-02T15:25:08.289481"
+  },
+  {
+    "kanji": "係",
+    "leitura": "ケイ (kei), かかり (kakari)",
+    "significado": "responsável, conexão, relação",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:17:49.022981"
+  },
+  {
+    "kanji": "促",
+    "leitura": "ソク (soku), うながす (unagasu)",
+    "significado": "estimular, apressar, incitar",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-04T21:57:01.556450"
+  },
+  {
+    "kanji": "俊",
+    "leitura": "シュン (shun)",
+    "significado": "sagaz, génio, excelência",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:20:50.733272"
+  },
+  {
+    "kanji": "俗",
+    "leitura": "ゾク (zoku)",
+    "significado": "vulgar, costumes, mundano, trivial",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:24:15.692479"
+  },
+  {
+    "kanji": "保",
+    "leitura": "ホ (ho), たもつ (tamotsu)",
+    "significado": "preservar, manter, garantir, apoiar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:12:50.320905"
+  },
+  {
+    "kanji": "信",
+    "leitura": "シン (shin)",
+    "significado": "fé, confiança, fidelidade, verdade",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T21:58:08.873317"
+  },
+  {
+    "kanji": "修",
+    "leitura": "シュウ (shuu), シュ (shu), おさめる (osameru)",
+    "significado": "disciplina, conduta, mestre, reparar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T21:59:36.872386"
+  },
+  {
+    "kanji": "俳",
+    "leitura": "ハイ (hai)",
+    "significado": "haiku, ator, entretenimento",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-13T00:56:34.629532"
+  },
+  {
+    "kanji": "俵",
+    "leitura": "ヒョウ (hyou), たわら (tawara)",
+    "significado": "saco de palha, contador de sacos",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T21:19:19.232918"
+  },
+  {
+    "kanji": "俸",
+    "leitura": "ホウ (hou)",
+    "significado": "salário, estipêndio",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:18:04.837830"
+  },
+  {
+    "kanji": "俺",
+    "leitura": "エン (en), おれ (ore)",
+    "significado": "eu (informal/masculino)",
+    "nivel": 0,
+    "proxima_revisao": "2026-02-16T19:14:43.279865"
+  },
+  {
+    "kanji": "倉",
+    "leitura": "ソウ (sou), くら (kura)",
+    "significado": "armazém, celeiro, tesouraria",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T19:51:17.458639"
+  },
+  {
+    "kanji": "個",
+    "leitura": "コ (ko)",
+    "significado": "indivíduo, contador de objetos pequenos",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-04T17:33:44.048324"
+  },
+  {
+    "kanji": "倍",
+    "leitura": "バイ (bai)",
+    "significado": "dobro, vezes, duas vezes",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:12:22.768076"
+  },
+  {
+    "kanji": "倒",
+    "leitura": "トウ (tou), たおれる (taoreru)",
+    "significado": "derrubar, colapsar, falir",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:24:07.588063"
+  },
+  {
+    "kanji": "候",
+    "leitura": "コウ (kou)",
+    "significado": "clima, estação, esperar por",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:08:07.595839"
+  },
+  {
+    "kanji": "借",
+    "leitura": "シャク (shaku), かりる (kariru)",
+    "significado": "pedir emprestado, alugar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:10:21.738461"
+  },
+  {
+    "kanji": "倣",
+    "leitura": "ホウ (hou), ならなう (narau)",
+    "significado": "imitar, seguir o exemplo",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-13T12:44:54.826691"
+  },
+  {
+    "kanji": "値",
+    "leitura": "チ (chi), あたい (atai), ね (ne)",
+    "significado": "preço, valor, custo",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-04T00:02:24.277328"
+  },
+  {
+    "kanji": "倫",
+    "leitura": "リン (rin)",
+    "significado": "ética, companheiro, moral",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T18:55:18.498254"
+  },
+  {
+    "kanji": "倹",
+    "leitura": "ケン (ken)",
+    "significado": "frugal, económico, parcimonioso",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:15:33.774779"
+  },
+  {
+    "kanji": "偉",
+    "leitura": "イ (i), えらい (erai)",
+    "significado": "admirável, excelente, grande",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-30T10:19:15.920418"
+  },
+  {
+    "kanji": "偏",
+    "leitura": "ヘン (hen), かたよる (katayoru)",
+    "significado": "parcial, inclinado, tendencioso",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-09T22:12:17.911660"
+  },
+  {
+    "kanji": "停",
+    "leitura": "テイ (tei)",
+    "significado": "paragem, interromper",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T21:59:25.488966"
+  },
+  {
+    "kanji": "健",
+    "leitura": "ケン (ken), すこやか (sukoyaka)",
+    "significado": "saúde, robusto, força",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:16:25.431122"
+  },
+  {
+    "kanji": "側",
+    "leitura": "ソク (soku), かわ (kawa), そば (soba)",
+    "significado": "lado, margem, vizinhança"
+  },
+  {
+    "kanji": "偵",
+    "leitura": "テイ (tei)",
+    "significado": "espiar, investigar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:08:14.835838"
+  },
+  {
+    "kanji": "偶",
+    "leitura": "グウ (guu)",
+    "significado": "acidentalmente, par, boneco",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:23:20.356040"
+  },
+  {
+    "kanji": "偽",
+    "leitura": "ギ (gi), にせ (nise), いつわる (itsuwaru)",
+    "significado": "falso, mentira, imitação",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:21:02.332822"
+  },
+  {
+    "kanji": "傍",
+    "leitura": "ボウ (bou), かたわら (katawara), そば (soba)",
+    "significado": "lado, perto, bystander",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:05:34.445363"
+  },
+  {
+    "kanji": "傑",
+    "leitura": "ケツ (ketsu)",
+    "significado": "excelente, pessoa notável",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-02T00:33:33.856215"
+  },
+  {
+    "kanji": "傘",
+    "leitura": "サン (san), かさ (kasa)",
+    "significado": "guarda-chuva, sombrinha",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-04T21:54:06.006372"
+  },
+  {
+    "kanji": "備",
+    "leitura": "ビ (bi), そなえる (sonaeru)",
+    "significado": "preparar, equipar, providenciar",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-12T21:00:22.145443"
+  },
+  {
+    "kanji": "催",
+    "leitura": "サイ (sai), もよおす (moyoosu)",
+    "significado": "organizar, realizar (evento), sentir",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T21:56:23.514301"
+  },
+  {
+    "kanji": "傲",
+    "leitura": "ゴウ (gou)",
+    "significado": "orgulho, arrogância",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-13T12:42:23.924515"
+  },
+  {
+    "kanji": "傳",
+    "leitura": "デン (den), つたわる (tsutawaru)",
+    "significado": "transmitir, tradição (forma antiga de 伝)",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-28T22:16:22.353473"
+  },
+  {
+    "kanji": "債",
+    "leitura": "サイ (sai)",
+    "significado": "dívida, título, obrigação",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-24T20:51:27.799810"
+  },
+  {
+    "kanji": "傷",
+    "leitura": "ショウ (shou), きず (kizu)",
+    "significado": "ferida, cicatriz, dano",
+    "nivel": 0,
+    "proxima_revisao": "2026-02-16T13:06:44.246407"
+  },
+  {
+    "kanji": "僕",
+    "leitura": "ボク (boku)",
+    "significado": "eu (masculino), servo",
+    "nivel": 1,
+    "proxima_revisao": "2026-02-10T06:37:00.335385"
+  },
+  {
+    "kanji": "像",
+    "leitura": "ゾウ (zou)",
+    "significado": "estátua, imagem, figura",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T16:41:52.906792"
+  },
+  {
+    "kanji": "僚",
+    "leitura": "リョウ (ryou)",
+    "significado": "colega, companheiro de trabalho",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-18T22:37:34.978777"
+  },
+  {
+    "kanji": "僧",
+    "leitura": "ソウ (sou)",
+    "significado": "monge budista, sacerdote",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T16:41:47.506576"
+  },
+  {
+    "kanji": "儀",
+    "leitura": "ギ (gi)",
+    "significado": "cerimónia, ritual, regra",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T21:55:49.922469"
+  },
+  {
+    "kanji": "億",
+    "leitura": "オク (oku)",
+    "significado": "cem milhões",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-28T22:39:19.296261"
+  },
+  {
+    "kanji": "儒",
+    "leitura": "ジュ (ju)",
+    "significado": "Confucionismo, estudioso",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:23:57.548197"
+  },
+  {
+    "kanji": "償",
+    "leitura": "ショウ (shou), つぐなう (tsugunau)",
+    "significado": "recompensa, redenção, compensar",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-13T12:42:40.004380"
+  },
+  {
+    "kanji": "優",
+    "leitura": "ユウ (yuu), やさしい (yasashii), すぐれる (sugureru)",
+    "significado": "gentil, superior, ator, excelente",
+    "nivel": 0,
+    "proxima_revisao": "2026-02-16T12:47:57.872517"
+  },
+  {
+    "kanji": "元",
+    "leitura": "ゲン (gen), ガン (gan), もと (moto)",
+    "significado": "origem, base, antigo",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:15:23.590966"
+  },
+  {
+    "kanji": "兄",
+    "leitura": "ケイ (kei), キョウ (kyou), あに (ani)",
+    "significado": "irmão mais velho",
+    "nivel": 4,
+    "proxima_revisao": "2026-04-25T12:29:28.885575"
+  },
+  {
+    "kanji": "充",
+    "leitura": "ジュウ (juu), あてる (ateru)",
+    "significado": "encher, carregar, alocar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:13:15.761167"
+  },
+  {
+    "kanji": "兆",
+    "leitura": "チョウ (chou), きざし (kizashi)",
+    "significado": "trilião (escala curta), sinal, presságio",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-13T00:56:50.309624"
+  },
+  {
+    "kanji": "先",
+    "leitura": "セン (sen), さき (saki)",
+    "significado": "antes, futuro, anterior, destino",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-13T12:44:24.770442"
+  },
+  {
+    "kanji": "光",
+    "leitura": "コウ (kou), ひかり (hikari)",
+    "significado": "luz, brilho",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:19:14.670158"
+  },
+  {
+    "kanji": "克",
+    "leitura": "コク (koku)",
+    "significado": "superar, vencer",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-01T20:34:14.393957"
+  },
+  {
+    "kanji": "免",
+    "leitura": "メン (men), まぬかれる (manukareru)",
+    "significado": "isenção, licença, evitar",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-30T10:15:22.691060"
+  },
+  {
+    "kanji": "児",
+    "leitura": "ジ (ji), ニ (ni), こ (ko)",
+    "significado": "criança, recém-nascido",
+    "nivel": 0,
+    "proxima_revisao": "2026-02-07T21:41:50.557175"
+  },
+  {
+    "kanji": "党",
+    "leitura": "トウ (tou)",
+    "significado": "partido político, facção",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:10:27.074399"
+  },
+  {
+    "kanji": "入",
+    "leitura": "ニュウ (nyuu), はいる (hairu), いれる (ireru)",
+    "significado": "entrar, inserir",
+    "nivel": 6,
+    "proxima_revisao": "2026-06-21T21:52:34.094861"
+  },
+  {
+    "kanji": "全",
+    "leitura": "ゼン (zen), まったく (mattaku)",
+    "significado": "todo, completo, inteiro"
+  },
+  {
+    "kanji": "八",
+    "leitura": "ハチ (hachi), やっつ (yattsu)",
+    "significado": "oito",
+    "nivel": 2,
+    "proxima_revisao": "2026-04-19T12:33:46.083260"
+  },
+  {
+    "kanji": "公",
+    "leitura": "コウ (kou), おおやけ (ooyake)",
+    "significado": "público, oficial, governamental",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-11T20:10:10.749692"
+  },
+  {
+    "kanji": "六",
+    "leitura": "ロク (roku), むっつ (muttsu)",
+    "significado": "seis",
+    "nivel": 6,
+    "proxima_revisao": "2026-06-21T22:03:10.833233"
+  },
+  {
+    "kanji": "共",
+    "leitura": "キョウ (kyou), とも (tomo)",
+    "significado": "juntos, ambos, inclusive, com",
+    "nivel": 0,
+    "proxima_revisao": "2026-02-16T12:45:36.033964"
+  },
+  {
+    "kanji": "兵",
+    "leitura": "ヘイ (hei), ヒョウ (hyou), つわもの (tsuwamono)",
+    "significado": "soldado, exército, armas",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-02T23:27:13.249812"
+  },
+  {
+    "kanji": "具",
+    "leitura": "グ (gu), そなえる (sonaeru)",
+    "significado": "ferramenta, utensílio, ingrediente, possuir",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:13:38.408279"
+  },
+  {
+    "kanji": "典",
+    "leitura": "テン (ten)",
+    "significado": "clássico, código, cerimônia, dicionário",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-29T14:56:34.473103"
+  },
+  {
+    "kanji": "兼",
+    "leitura": "ケン (ken), かねる (kaneru)",
+    "significado": "acumular funções, simultaneamente",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-22T09:04:02.358608"
+  },
+  {
+    "kanji": "内",
+    "leitura": "ナイ (nai), ダイ (dai), うち (uchi)",
+    "significado": "dentro, interior, entre",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-04T21:52:16.543172"
+  },
+  {
+    "kanji": "円",
+    "leitura": "エン (en), まるい (marui)",
+    "significado": "iene, círculo, redondo",
+    "nivel": 5,
+    "proxima_revisao": "2026-06-18T22:03:07.057145"
+  },
+  {
+    "kanji": "冊",
+    "leitura": "サツ (satsu), サク (saku)",
+    "significado": "contador de livros, volume",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-30T10:14:50.019737"
+  },
+  {
+    "kanji": "再",
+    "leitura": "サイ (sai), サ (sa), ふたたび (futatabi)",
+    "significado": "novamente, segunda vez"
+  },
+  {
+    "kanji": "冒",
+    "leitura": "ボウ (bou), おかす (okasu)",
+    "significado": "arriscar, enfrentar, profanar",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-04T01:19:53.327539"
+  },
+  {
+    "kanji": "写",
+    "leitura": "シャ (sha), うつす (utsusu)",
+    "significado": "copiar, fotografar, descrever",
+    "nivel": 2,
+    "proxima_revisao": "2026-06-16T20:13:09.308037"
+  },
+  {
+    "kanji": "冬",
+    "leitura": "トウ (tou), ふゆ (fuyu)",
+    "significado": "inverno",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-21T11:09:04.464242"
+  },
+  {
+    "kanji": "冷",
+    "leitura": "レイ (rei), つめたい (tsumetai), ひえる (hieru)",
+    "significado": "frio, esfriar, gelado"
+  },
+  {
+    "kanji": "凄",
+    "leitura": "セイ (sei), すごい (sugoi)",
+    "significado": "tremendo, incrível, assustador",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-04T22:00:57.570874"
+  },
+  {
+    "kanji": "准",
+    "leitura": "ジュン (jun)",
+    "significado": "quase, associado, semivice-",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T18:54:41.314423"
+  },
+  {
+    "kanji": "凍",
+    "leitura": "トウ (tou), こおる (kooru)",
+    "significado": "congelar, gelo",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:21:59.173124"
+  },
+  {
+    "kanji": "凝",
+    "leitura": "ギョウ (gyou), こる (koru)",
+    "significado": "congelar, endurecer, absorvido em algo",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:22:08.237089"
+  },
+  {
+    "kanji": "凡",
+    "leitura": "ボン (bon), ハン (han), およそ (oyoso)",
+    "significado": "comum, medíocre, geral, aproximadamente",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:21:41.332684"
+  },
+  {
+    "kanji": "凶",
+    "leitura": "キョウ (kyou)",
+    "significado": "azar, infortúnio, mal, desastre",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T13:58:13.755713"
+  },
+  {
+    "kanji": "凸",
+    "leitura": "トツ (totsu), でこ (deko)",
+    "significado": "convexo, saliência",
+    "nivel": 4,
+    "proxima_revisao": "2026-04-25T12:30:42.172792"
+  },
+  {
+    "kanji": "凹",
+    "leitura": "オウ (ou), くぼむ (kubomu)",
+    "significado": "côncavo, buraco, depressão",
+    "nivel": 1,
+    "proxima_revisao": "2026-03-31T10:53:42.612022"
+  },
+  {
+    "kanji": "出",
+    "leitura": "シュツ (shutsu), でる (deru), だす (dasu)",
+    "significado": "sair, enviar, sair de casa",
+    "nivel": 4,
+    "proxima_revisao": "2026-04-16T18:23:46.790644"
+  },
+  {
+    "kanji": "刀",
+    "leitura": "トウ (tou), かたな (katana)",
+    "significado": "espada, faca",
+    "nivel": 4,
+    "proxima_revisao": "2026-06-15T21:50:58.343919"
+  },
+  {
+    "kanji": "刃",
+    "leitura": "ジン (jin), は (ha)",
+    "significado": "lâmina, gume",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-13T12:46:30.065910"
+  },
+  {
+    "kanji": "分",
+    "leitura": "ブン (bun), フン (fun), わける (wakeru)",
+    "significado": "minuto, parte, dividir, entender",
+    "nivel": 6,
+    "proxima_revisao": "2026-06-27T23:34:11.887396"
+  },
+  {
+    "kanji": "切",
+    "leitura": "セツ (setsu), サイ (sai), きる (kiru)",
+    "significado": "cortar, afiado, importante",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:12:30.496554"
+  },
+  {
+    "kanji": "刈",
+    "leitura": "カイ (kai), かる (karu)",
+    "significado": "ceifar, aparar, colher",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-02T11:07:02.409386"
+  },
+  {
+    "kanji": "刊",
+    "leitura": "カン (kan)",
+    "significado": "publicar, edição",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:20:20.821507"
+  },
+  {
+    "kanji": "刑",
+    "leitura": "ケイ (kei)",
+    "significado": "punição, pena, sentença",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:13:07.400058"
+  },
+  {
+    "kanji": "列",
+    "leitura": "レツ (retsu)",
+    "significado": "fila, coluna, linha",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-09T22:36:13.985302"
+  },
+  {
+    "kanji": "初",
+    "leitura": "ショ (sho), はじめて (hajimete)",
+    "significado": "primeiro, começo",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-13T12:45:05.906638"
+  },
+  {
+    "kanji": "判",
+    "leitura": "ハン (han), バン (ban)",
+    "significado": "julgar, carimbo, selo, tamanho",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-09T21:02:14.468806"
+  },
+  {
+    "kanji": "別",
+    "leitura": "ベツ (betsu), わかれる (wakareru)",
+    "significado": "separar, diferente, outro",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T15:10:26.905063"
+  },
+  {
+    "kanji": "利",
+    "leitura": "リ (ri), きく (kiku)",
+    "significado": "lucro, vantagem, benefício",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-09T20:59:17.741779"
+  },
+  {
+    "kanji": "到",
+    "leitura": "トウ (tou), いたる (itaru)",
+    "significado": "chegar, atingir",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:01:16.520062"
+  },
+  {
+    "kanji": "制",
+    "leitura": "セイ (sei)",
+    "significado": "sistema, controle, regra",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:02:21.271057"
+  },
+  {
+    "kanji": "刷",
+    "leitura": "サツ (satsu), する (suru)",
+    "significado": "imprimir, escovar",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-22T20:26:56.804004"
+  },
+  {
+    "kanji": "券",
+    "leitura": "ケン (ken)",
+    "significado": "bilhete, cupom, certificado"
+  },
+  {
+    "kanji": "刺",
+    "leitura": "シ (shi), さす (sasu)",
+    "significado": "espetar, furar, apunhalar, espinho",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-28T18:38:33.995049"
+  },
+  {
+    "kanji": "刻",
+    "leitura": "コク (koku), きざむ (kizamu)",
+    "significado": "gravar, entalhar, tempo",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-04T02:05:34.720938"
+  },
+  {
+    "kanji": "剃",
+    "leitura": "テイ (tei), そる (soru)",
+    "significado": "fazer a barba, raspar",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T21:43:17.218591"
+  },
+  {
+    "kanji": "則",
+    "leitura": "ソク (soku), のっとる (nottoru)",
+    "significado": "regra, lei, seguir",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-04T15:27:41.099075"
+  },
+  {
+    "kanji": "削",
+    "leitura": "サク (saku), けずる (kezuru)",
+    "significado": "afiar, raspar, reduzir, apagar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:17:04.070913"
+  },
+  {
+    "kanji": "前",
+    "leitura": "ゼン (zen), まえ (mae)",
+    "significado": "frente, antes",
+    "nivel": 6,
+    "proxima_revisao": "2026-06-28T20:14:26.204412"
+  },
+  {
+    "kanji": "剛",
+    "leitura": "ゴウ (gou)",
+    "significado": "forte, rígido, resistente",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:16:29.031083"
+  },
+  {
+    "kanji": "剣",
+    "leitura": "ケン (ken), つるぎ (tsurugi)",
+    "significado": "sabre, espada",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-04T21:59:20.515576"
+  },
+  {
+    "kanji": "剤",
+    "leitura": "ザイ (zai)",
+    "significado": "agente químico, dose, remédio",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T23:52:15.719560"
+  },
+  {
+    "kanji": "副",
+    "leitura": "フク (fuku)",
+    "significado": "vice-, adjunto, assistente, cópia",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-29T14:56:42.360881"
+  },
+  {
+    "kanji": "剰",
+    "leitura": "ジョウ (jou)",
+    "significado": "excedente, sobra"
+  },
+  {
+    "kanji": "割",
+    "leitura": "カツ (katsu), わる (waru), わり (wari)",
+    "significado": "dividir, proporção, quebrar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:13:21.240964"
+  },
+  {
+    "kanji": "創",
+    "leitura": "ソウ (sou), つくる (tsukuru)",
+    "significado": "criar, gênesis, ferida",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-22T17:21:18.133353"
+  },
+  {
+    "kanji": "劇",
+    "leitura": "ゲキ (geki)",
+    "significado": "drama, peça teatral",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-11T20:08:30.213841"
+  },
+  {
+    "kanji": "力",
+    "leitura": "リョク (ryoku), リキ (riki), ちから (chikara)",
+    "significado": "força, poder, habilidade",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-04T22:00:41.594226"
+  },
+  {
+    "kanji": "八",
+    "leitura": "ハチ (hachi), やっつ (yattsu)",
+    "significado": "oito"
+  },
+  {
+    "kanji": "公",
+    "leitura": "コウ (kou), おおやけ (ooyake)",
+    "significado": "público, oficial, governamental",
+    "nivel": 3,
+    "proxima_revisao": "2026-06-19T20:13:15.043995"
+  },
+  {
+    "kanji": "六",
+    "leitura": "ロク (roku), むっつ (muttsu)",
+    "significado": "seis",
+    "nivel": 6,
+    "proxima_revisao": "2026-06-21T21:56:05.847122"
+  },
+  {
+    "kanji": "共",
+    "leitura": "キョウ (kyou), とも (tomo)",
+    "significado": "juntos, ambos, inclusive, com",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-28T21:38:19.180220"
+  },
+  {
+    "kanji": "兵",
+    "leitura": "ヘイ (hei), ヒョウ (hyou), つわもの (tsuwamono)",
+    "significado": "soldado, exército, armas"
+  },
+  {
+    "kanji": "具",
+    "leitura": "グ (gu), そなえる (sonaeru)",
+    "significado": "ferramenta, utensílio, ingrediente, possuir",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:15:13.343313"
+  },
+  {
+    "kanji": "典",
+    "leitura": "テン (ten)",
+    "significado": "clássico, código, cerimônia, dicionário",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T21:49:16.584373"
+  },
+  {
+    "kanji": "兼",
+    "leitura": "ケン (ken), かねる (kaneru)",
+    "significado": "acumular funções, simultaneamente",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T12:55:13.611379"
+  },
+  {
+    "kanji": "内",
+    "leitura": "ナイ (nai), ダイ (dai), うち (uchi)",
+    "significado": "dentro, interior, entre",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-04T21:51:27.887596"
+  },
+  {
+    "kanji": "円",
+    "leitura": "エン (en), まるい (marui)",
+    "significado": "iene, círculo, redondo",
+    "nivel": 2,
+    "proxima_revisao": "2026-06-15T21:57:47.123572"
+  },
+  {
+    "kanji": "冊",
+    "leitura": "サツ (satsu), サク (saku)",
+    "significado": "contador de livros, volume",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T21:57:32.089531"
+  },
+  {
+    "kanji": "再",
+    "leitura": "サイ (sai), サ (sa), ふたたび (futatabi)",
+    "significado": "novamente, segunda vez",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:12:46.977373"
+  },
+  {
+    "kanji": "冒",
+    "leitura": "ボウ (bou), おかす (okasu)",
+    "significado": "arriscar, enfrentar, profanar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T21:56:46.986370"
+  },
+  {
+    "kanji": "写",
+    "leitura": "シャ (sha), うつす (utsusu)",
+    "significado": "copiar, fotografar, descrever",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-28T10:52:32.890111"
+  },
+  {
+    "kanji": "冬",
+    "leitura": "トウ (tou), ふゆ (fuyu)",
+    "significado": "inverno",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-04T23:57:20.675175"
+  },
+  {
+    "kanji": "冷",
+    "leitura": "レイ (rei), つめたい (tsumetai), ひえる (hieru)",
+    "significado": "frio, esfriar, gelado",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-25T18:56:46.854934"
+  },
+  {
+    "kanji": "凄",
+    "leitura": "セイ (sei), すごい (sugoi)",
+    "significado": "tremendo, incrível, assustador"
+  },
+  {
+    "kanji": "准",
+    "leitura": "ジュン (jun)",
+    "significado": "quase, associado, semivice-",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T21:55:40.195305"
+  },
+  {
+    "kanji": "凍",
+    "leitura": "トウ (tou), こおる (kooru)",
+    "significado": "congelar, gelo",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-02T01:20:11.316329"
+  },
+  {
+    "kanji": "凝",
+    "leitura": "ギョウ (gyou), こる (koru)",
+    "significado": "congelar, endurecer, absorvido em algo"
+  },
+  {
+    "kanji": "凡",
+    "leitura": "ボン (bon), ハン (han), およそ (oyoso)",
+    "significado": "comum, medíocre, geral, aproximadamente",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T15:08:27.393638"
+  },
+  {
+    "kanji": "凶",
+    "leitura": "キョウ (kyou)",
+    "significado": "azar, infortúnio, mal, desastre",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-17T01:21:19.530592"
+  },
+  {
+    "kanji": "凸",
+    "leitura": "トツ (totsu), でこ (deko)",
+    "significado": "convexo, saliência",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-30T10:15:51.059222"
+  },
+  {
+    "kanji": "凹",
+    "leitura": "オウ (ou), くぼむ (kubomu)",
+    "significado": "côncavo, buraco, depressão",
+    "nivel": 4,
+    "proxima_revisao": "2026-06-10T20:45:24.183262"
+  },
+  {
+    "kanji": "出",
+    "leitura": "シュツ (shutsu), でる (deru), だす (dasu)",
+    "significado": "sair, enviar, sair de casa",
+    "nivel": 6,
+    "proxima_revisao": "2026-06-27T23:24:12.668927"
+  },
+  {
+    "kanji": "刀",
+    "leitura": "トウ (tou), かたな (katana)",
+    "significado": "espada, faca",
+    "nivel": 2,
+    "proxima_revisao": "2026-04-05T01:11:26.879594"
+  },
+  {
+    "kanji": "刃",
+    "leitura": "ジン (jin), は (ha)",
+    "significado": "lâmina, gume",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-10T20:20:14.869009"
+  },
+  {
+    "kanji": "分",
+    "leitura": "ブン (bun), フン (fun), わける (wakeru)",
+    "significado": "minuto, parte, dividir, entender",
+    "nivel": 6,
+    "proxima_revisao": "2026-06-28T20:02:36.384462"
+  },
+  {
+    "kanji": "切",
+    "leitura": "セツ (setsu), サイ (sai), きる (kiru)",
+    "significado": "cortar, afiado, importante"
+  },
+  {
+    "kanji": "刈",
+    "leitura": "カイ (kai), かる (karu)",
+    "significado": "ceifar, aparar, colher",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-29T15:51:33.909897"
+  },
+  {
+    "kanji": "刊",
+    "leitura": "カン (kan)",
+    "significado": "publicar, edição",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:04:48.437157"
+  },
+  {
+    "kanji": "刑",
+    "leitura": "ケイ (kei)",
+    "significado": "punição, pena, sentença",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:11:07.754339"
+  },
+  {
+    "kanji": "列",
+    "leitura": "レツ (retsu)",
+    "significado": "fila, coluna, linha"
+  },
+  {
+    "kanji": "初",
+    "leitura": "ショ (sho), はじめて (hajimete)",
+    "significado": "primeiro, começo"
+  },
+  {
+    "kanji": "判",
+    "leitura": "ハン (han), バン (ban)",
+    "significado": "julgar, carimbo, selo, tamanho",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-09T17:59:10.880226"
+  },
+  {
+    "kanji": "別",
+    "leitura": "ベツ (betsu), わかれる (wakareru)",
+    "significado": "separar, diferente, outro",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-13T12:35:32.301273"
+  },
+  {
+    "kanji": "利",
+    "leitura": "リ (ri), きく (kiku)",
+    "significado": "lucro, vantagem, benefício",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-28T18:37:09.196140"
+  },
+  {
+    "kanji": "到",
+    "leitura": "トウ (tou), いたる (itaru)",
+    "significado": "chegar, atingir",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-30T10:15:29.930909"
+  },
+  {
+    "kanji": "制",
+    "leitura": "セイ (sei)",
+    "significado": "sistema, controle, regra",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-04T00:27:23.438971"
+  },
+  {
+    "kanji": "刷",
+    "leitura": "サツ (satsu), する (suru)",
+    "significado": "imprimir, escovar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:09:57.282700"
+  },
+  {
+    "kanji": "券",
+    "leitura": "ケン (ken)",
+    "significado": "bilhete, cupom, certificado",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-04T01:22:02.598998"
+  },
+  {
+    "kanji": "刺",
+    "leitura": "シ (shi), さす (sasu)",
+    "significado": "espetar, furar, apunhalar, espinho",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T16:41:41.690603"
+  },
+  {
+    "kanji": "刻",
+    "leitura": "コク (koku), きざむ (kizamu)",
+    "significado": "gravar, entalhar, tempo",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T16:42:15.378435"
+  },
+  {
+    "kanji": "剃",
+    "leitura": "テイ (tei), そる (soru)",
+    "significado": "fazer a barba, raspar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:18:44.614596"
+  },
+  {
+    "kanji": "則",
+    "leitura": "ソク (soku), のっとる (nottoru)",
+    "significado": "regra, lei, seguir",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-09T20:33:16.180545"
+  },
+  {
+    "kanji": "削",
+    "leitura": "サク (saku), けずる (kezuru)",
+    "significado": "afiar, raspar, reduzir, apagar",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-11T20:10:02.901709"
+  },
+  {
+    "kanji": "前",
+    "leitura": "ゼン (zen), まえ (mae)",
+    "significado": "frente, antes",
+    "nivel": 7,
+    "proxima_revisao": "2026-06-25T00:12:20.770290"
+  },
+  {
+    "kanji": "剛",
+    "leitura": "ゴウ (gou)",
+    "significado": "forte, rígido, resistente",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:14:08.983661"
+  },
+  {
+    "kanji": "剣",
+    "leitura": "ケン (ken), つるぎ (tsurugi)",
+    "significado": "sabre, espada",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-04T11:28:49.638463"
+  },
+  {
+    "kanji": "剤",
+    "leitura": "ザイ (zai)",
+    "significado": "agente químico, dose, remédio",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-30T10:11:32.181068"
+  },
+  {
+    "kanji": "副",
+    "leitura": "フク (fuku)",
+    "significado": "vice-, adjunto, assistente, cópia",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:24:30.947965"
+  },
+  {
+    "kanji": "剰",
+    "leitura": "ジョウ (jou)",
+    "significado": "excedente, sobra",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:11:12.874000"
+  },
+  {
+    "kanji": "割",
+    "leitura": "カツ (katsu), わる (waru), わり (wari)",
+    "significado": "dividir, proporção, quebrar",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-13T12:41:18.924677"
+  },
+  {
+    "kanji": "創",
+    "leitura": "ソウ (sou), つくる (tsukuru)",
+    "significado": "criar, gênesis, ferida",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-22T14:17:18.037942"
+  },
+  {
+    "kanji": "劇",
+    "leitura": "ゲキ (geki)",
+    "significado": "drama, peça teatral",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-13T12:41:43.788512"
+  },
+  {
+    "kanji": "力",
+    "leitura": "リョク (ryoku), リキ (riki), ちから (chikara)",
+    "significado": "força, poder, habilidade",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-24T23:25:28.276810"
+  },
+  {
+    "kanji": "功",
+    "leitura": "コウ (kou), ク (ku)",
+    "significado": "mérito, sucesso, conquista",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-23T00:43:49.194768"
+  },
+  {
+    "kanji": "加",
+    "leitura": "カ (ka), くわえる (kuwaeru)",
+    "significado": "adicionar, incluir, participar",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-04T12:58:30.024959"
+  },
+  {
+    "kanji": "劣",
+    "leitura": "レツ (retsu), おとる (otoru)",
+    "significado": "inferior, ser pior que",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:23:49.292278"
+  },
+  {
+    "kanji": "助",
+    "leitura": "ジョ (jo), たすける (tasukeru)",
+    "significado": "ajudar, salvar, assistência",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-22T20:27:36.131924"
+  },
+  {
+    "kanji": "努",
+    "leitura": "ド (do), つとめる (tsutomeru)",
+    "significado": "esforçar-se, empenhar-se"
+  },
+  {
+    "kanji": "励",
+    "leitura": "レイ (rei), はげむ (hagemu)",
+    "significado": "encorajar, esforçar-se",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:13:53.015695"
+  },
+  {
+    "kanji": "労",
+    "leitura": "ロウ (rou)",
+    "significado": "trabalho, esforço, labuta",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T21:56:17.762165"
+  },
+  {
+    "kanji": "効",
+    "leitura": "コウ (kou), きく (kiku)",
+    "significado": "efeito, eficácia, resultado",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T21:57:44.105481"
+  },
+  {
+    "kanji": "劾",
+    "leitura": "ガイ (gai)",
+    "significado": "acusar, examinar (crime)",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-30T10:18:53.408664"
+  },
+  {
+    "kanji": "勅",
+    "leitura": "チョク (choku)",
+    "significado": "decreto imperial",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T13:45:10.185639"
+  },
+  {
+    "kanji": "勇",
+    "leitura": "ユウ (yuu), いさましい (isamashii)",
+    "significado": "coragem, bravura, heróico",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-22T15:53:23.766408"
+  },
+  {
+    "kanji": "勉",
+    "leitura": "ベン (ben), つとめる (tsutomeru)",
+    "significado": "esforço, estudar",
+    "nivel": 3,
+    "proxima_revisao": "2026-06-19T20:09:02.974020"
+  },
+  {
+    "kanji": "動",
+    "leitura": "ドウ (dou), うごく (ugoku)",
+    "significado": "mover, movimento, ação",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-04T11:33:22.819366"
+  },
+  {
+    "kanji": "勘",
+    "leitura": "カン (kan)",
+    "significado": "intuição, percepção, verificação",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:14:18.655921"
+  },
+  {
+    "kanji": "務",
+    "leitura": "ム (mu), つとめる (tsutomeru)",
+    "significado": "dever, tarefa, serviço",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-26T00:35:20.467316"
+  },
+  {
+    "kanji": "勝",
+    "leitura": "ショウ (shou), かつ (katsu)",
+    "significado": "vencer, ganhar, vitória"
+  },
+  {
+    "kanji": "募",
+    "leitura": "ボ (bo), つのる (tsunoru)",
+    "significado": "recrutar, convocar, angariar",
+    "nivel": 0,
+    "proxima_revisao": "2026-02-07T19:21:56.676746"
+  },
+  {
+    "kanji": "勢",
+    "leitura": "セイ (sei), いきおい (ikioi)",
+    "significado": "força, energia, ímpeto, condição",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:21:16.253249"
+  },
+  {
+    "kanji": "勤",
+    "leitura": "キン (kin), つとめる (tsutomeru)",
+    "significado": "trabalhar para, serviço, emprego",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:03:46.357911"
+  },
+  {
+    "kanji": "勧",
+    "leitura": "カン (kan), すすめる (susumeru)",
+    "significado": "recomendar, aconselhar, exortar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:22:13.333007"
+  },
+  {
+    "kanji": "勺",
+    "leitura": "シャク (shaku)",
+    "significado": "unidade de volume (aprox. 18ml)",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T21:48:15.400983"
+  },
+  {
+    "kanji": "勿",
+    "leitura": "モチ (mochi), ブツ (butsu), なかれ (nakare)",
+    "significado": "não deve, não, proibição",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-02T15:36:31.155356"
+  },
+  {
+    "kanji": "勾",
+    "leitura": "コウ (kou), まがる (magaru)",
+    "significado": "curvatura, inclinação, capturar",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-12T22:14:27.370203"
+  },
+  {
+    "kanji": "匂",
+    "leitura": "におい (nioi), におう (niou)",
+    "significado": "cheiro, fragrância, brilhar",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-28T19:38:28.208270"
+  },
+  {
+    "kanji": "包",
+    "leitura": "ホウ (hou), つつむ (tsutsumu)",
+    "significado": "embrulhar, envolver, pacote",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-13T12:37:57.798341"
+  },
+  {
+    "kanji": "化",
+    "leitura": "カ (ka), ケ (ke), ばける (bakeru)",
+    "significado": "transformar, mudar, influência",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-22T13:52:58.747101"
+  },
+  {
+    "kanji": "北",
+    "leitura": "ホク (hoku), きた (kita)",
+    "significado": "norte",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-11T20:08:22.486197"
+  },
+  {
+    "kanji": "匙",
+    "leitura": "シ (shi), さじ (saji)",
+    "significado": "colher",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-28T18:35:28.469821"
+  },
+  {
+    "kanji": "匠",
+    "leitura": "ショウ (shou), たくみ (takumi)",
+    "significado": "artesão, mestre, carpinteiro",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:24:20.540135"
+  },
+  {
+    "kanji": "匡",
+    "leitura": "キョウ (kyou), ただす (tadasu)",
+    "significado": "corrigir, ajudar, salvar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:12:34.081485"
+  },
+  {
+    "kanji": "匹",
+    "leitura": "ヒツ (hitsu), ひき (hiki)",
+    "significado": "contador de pequenos animais, par",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-04T13:15:19.858688"
+  },
+  {
+    "kanji": "区",
+    "leitura": "ク (ku)",
+    "significado": "distrito, zona, ala",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:20:42.677801"
+  },
+  {
+    "kanji": "医",
+    "leitura": "イ (i)",
+    "significado": "doutor, medicina",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-04T01:20:04.207685"
+  },
+  {
+    "kanji": "匿",
+    "leitura": "トク (toku), かくす (kakusu)",
+    "significado": "esconder, abrigar, anonimato",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-04T00:38:54.713075"
+  },
+  {
+    "kanji": "十",
+    "leitura": "ジュウ (juu), とお (too)",
+    "significado": "dez",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-13T00:56:56.549506"
+  },
+  {
+    "kanji": "千",
+    "leitura": "セン (sen), ち (chi)",
+    "significado": "mil",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-13T12:37:39.358953"
+  },
+  {
+    "kanji": "升",
+    "leitura": "ショウ (shou), ます (masu)",
+    "significado": "caixa de medição, unidade de volume (1.8L)",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-22T21:36:41.163658"
+  },
+  {
+    "kanji": "午",
+    "leitura": "ゴ (go), うま (uma)",
+    "significado": "meio-dia, signo do cavalo"
+  },
+  {
+    "kanji": "半",
+    "leitura": "ハン (han), なかば (nakaba)",
+    "significado": "metade, meio",
+    "nivel": 2,
+    "proxima_revisao": "2026-06-15T19:25:15.090848"
+  },
+  {
+    "kanji": "卑",
+    "leitura": "ヒ (hi), いやしい (iyashii)",
+    "significado": "baixo, vulgar, desprezível",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T14:43:39.220722"
+  },
+  {
+    "kanji": "卒",
+    "leitura": "ソツ (sotsu)",
+    "significado": "graduar-se, soldado, morrer",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:16:43.574538"
+  },
+  {
+    "kanji": "卓",
+    "leitura": "タク (taku)",
+    "significado": "eminente, mesa, topo",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:21:50.620962"
+  },
+  {
+    "kanji": "協",
+    "leitura": "キョウ (kyou)",
+    "significado": "cooperação, harmonia, acordo",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:09:01.795447"
+  },
+  {
+    "kanji": "南",
+    "leitura": "ナン (nan), みなみ (minami)",
+    "significado": "sul",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-04T21:59:12.995342"
+  },
+  {
+    "kanji": "単",
+    "leitura": "タン (tan)",
+    "significado": "simples, único, unidade",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-18T19:34:34.717679"
+  },
+  {
+    "kanji": "博",
+    "leitura": "ハク (haku), バク (baku)",
+    "significado": "amplo, doutor, exposição, jogo de azar",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-25T00:07:26.172799"
+  },
+  {
+    "kanji": "占",
+    "leitura": "セン (sen), うらなう (uranau), しめる (shimeru)",
+    "significado": "prever, adivinhação, ocupar, possuir",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-22T17:08:27.068033"
+  },
+  {
+    "kanji": "印",
+    "leitura": "イン (in), しるし (shirushi)",
+    "significado": "carimbo, marca, símbolo, selo",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:23:29.819911"
+  },
+  {
+    "kanji": "危",
+    "leitura": "キ (ki), あぶない (abunai)",
+    "significado": "perigo, perigoso, arriscado",
+    "nivel": 0,
+    "proxima_revisao": "2026-02-08T18:19:18.705145"
+  },
+  {
+    "kanji": "即",
+    "leitura": "ソク (soku), すなわち (sunawachi)",
+    "significado": "imediato, isto é, nomeadamente",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-04T21:53:59.526168"
+  },
+  {
+    "kanji": "却",
+    "leitura": "キャク (kyaku)",
+    "significado": "pelo contrário, recuar, rejeitar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:20:55.845329"
+  },
+  {
+    "kanji": "卵",
+    "leitura": "ラン (ran), たまご (tamago)",
+    "significado": "ovo",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-04T21:59:52.418468"
+  },
+  {
+    "kanji": "卸",
+    "leitura": "シャ (sha), おろす (orosu)",
+    "significado": "venda por atacado, descarga",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-04T12:03:17.352132"
+  },
+  {
+    "kanji": "厄",
+    "leitura": "ヤク (yaku)",
+    "significado": "desastre, má sorte, obstáculo",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-02T08:12:08.865528"
+  },
+  {
+    "kanji": "厘",
+    "leitura": "リン (rin)",
+    "significado": "unidade pequena (0.01), centavo",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-09T21:00:17.262112"
+  },
+  {
+    "kanji": "厚",
+    "leitura": "コウ (kou), あつい (atsui)",
+    "significado": "grosso, espesso, cordial, gentil"
+  },
+  {
+    "kanji": "原",
+    "leitura": "ゲン (gen), はら (hara)",
+    "significado": "campo, planície, original, fonte",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:21:21.413181"
+  },
+  {
+    "kanji": "厳",
+    "leitura": "ゲン (gen), きびしい (kibishii)",
+    "significado": "estrito, severo, rígido",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-02T07:59:11.134887"
+  },
+  {
+    "kanji": "去",
+    "leitura": "キョ (kyo), コ (ko), さる (saru)",
+    "significado": "ir embora, passado, deixar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:06:00.948947"
+  },
+  {
+    "kanji": "参",
+    "leitura": "サン (san), まいる (mairu)",
+    "significado": "participar, visitar, três (formal)",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:00:52.807932"
+  },
+  {
+    "kanji": "又",
+    "leitura": "また (mata)",
+    "significado": "novamente, por outro lado, além disso",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-04T12:36:16.066699"
+  },
+  {
+    "kanji": "及",
+    "leitura": "キュウ (kyuu), および (oyobi)",
+    "significado": "alcançar, estender-se a, e também",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-13T12:43:24.571506"
+  },
+  {
+    "kanji": "友",
+    "leitura": "ユウ (yuu), とも (tomo)",
+    "significado": "amigo",
+    "nivel": 6,
+    "proxima_revisao": "2026-06-27T23:31:13.512875"
+  },
+  {
+    "kanji": "双",
+    "leitura": "ソウ (sou), ふた (futa)",
+    "significado": "par, ambos, gêmeos",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T21:57:53.353413"
+  },
+  {
+    "kanji": "反",
+    "leitura": "ハン (han), タン (tan), そる (soru)",
+    "significado": "oposto, contra, unidade de medida",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:22:04.109107"
+  },
+  {
+    "kanji": "収",
+    "leitura": "シュウ (shuu), おさめる (osameru)",
+    "significado": "receber, obter, colher, guardar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:19:37.718525"
+  },
+  {
+    "kanji": "叔",
+    "leitura": "シュク (shuku)",
+    "significado": "tio, tia",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:02:38.246857"
+  },
+  {
+    "kanji": "取",
+    "leitura": "シュ (shu), とる (toru)",
+    "significado": "pegar, tomar, obter",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-04T01:20:10.167690"
+  },
+  {
+    "kanji": "受",
+    "leitura": "ジュ (ju), うける (ukeru)",
+    "significado": "receber, aceitar, sofrer",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-13T12:38:07.814731"
+  },
+  {
+    "kanji": "叙",
+    "leitura": "ジョ (jo)",
+    "significado": "descrever, narrar, conferir rank",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-02T04:17:10.926024"
+  },
+  {
+    "kanji": "口",
+    "leitura": "コウ (kou), ク (ku), くち (kuchi)",
+    "significado": "boca, entrada",
+    "nivel": 3,
+    "proxima_revisao": "2026-03-29T18:25:21.686029"
+  },
+  {
+    "kanji": "古",
+    "leitura": "コ (ko), ふるい (furui)",
+    "significado": "velho, antigo",
+    "nivel": 5,
+    "proxima_revisao": "2026-06-25T20:07:15.446623"
+  },
+  {
+    "kanji": "句",
+    "leitura": "ク (ku)",
+    "significado": "frase, cláusula, haiku",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:06:55.796509"
+  },
+  {
+    "kanji": "叫",
+    "leitura": "キョウ (kyou), さけぶ (sakebu)",
+    "significado": "gritar, exclamar",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-13T12:43:54.563241"
+  },
+  {
+    "kanji": "召",
+    "leitura": "ショウ (shou), めす (mesu)",
+    "significado": "chamar, convocar, comer/vestir (polido)",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:12:39.025505"
+  },
+  {
+    "kanji": "可",
+    "leitura": "カ (ka)",
+    "significado": "possível, aprovado, aceitável",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-04T21:57:20.740164"
+  },
+  {
+    "kanji": "台",
+    "leitura": "ダイ (dai), タイ (tai)",
+    "significado": "suporte, plataforma, contador de máquinas",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:20:37.165400"
+  },
+  {
+    "kanji": "右",
+    "leitura": "ウ (u), ユウ (yuu), みぎ (migi)",
+    "significado": "direita",
+    "nivel": 4,
+    "proxima_revisao": "2026-04-25T12:27:03.942863"
+  },
+  {
+    "kanji": "叶",
+    "leitura": "かなう (kanau)",
+    "significado": "tornar-se realidade (sonho), realizar"
+  },
+  {
+    "kanji": "司",
+    "leitura": "シ (shi), つかさどる (tsukasadoru)",
+    "significado": "diretor, administrar, governar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:21:08.117908"
+  },
+  {
+    "kanji": "各",
+    "leitura": "カク (kaku), おのおの (onoono)",
+    "significado": "cada, todos"
+  },
+  {
+    "kanji": "合",
+    "leitura": "ゴウ (gou), ガッ (gat), あう (au)",
+    "significado": "juntar, encaixar, coincidir",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-04T21:58:51.859513"
+  },
+  {
+    "kanji": "吉",
+    "leitura": "キチ (kichi), キツ (kitsu), よし (yoshi)",
+    "significado": "boa sorte, alegria, fortuna",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:12:11.095968"
+  },
+  {
+    "kanji": "同",
+    "leitura": "ドウ (dou), おなじ (onaji)",
+    "significado": "igual, mesmo, idêntico",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T16:41:57.018530"
+  },
+  {
+    "kanji": "名",
+    "leitura": "メイ (mei), ミョウ (myou), な (na)",
+    "significado": "nome, reputação, distinto",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-13T00:56:38.389113"
+  },
+  {
+    "kanji": "后",
+    "leitura": "コウ (kou), きさき (kisaki)",
+    "significado": "imperatriz, rainha",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-04T15:46:18.772422"
+  },
+  {
+    "kanji": "吏",
+    "leitura": "リ (ri)",
+    "significado": "oficial, funcionário público",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T22:55:35.087073"
+  },
+  {
+    "kanji": "吐",
+    "leitura": "ト (to), はく (haku)",
+    "significado": "cuspir, vomitar, desabafar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-09T18:48:12.525685"
+  },
+  {
+    "kanji": "向",
+    "leitura": "コウ (kou), むく (muku)",
+    "significado": "direção, virar-se para, tendência",
+    "nivel": 0,
+    "proxima_revisao": "2026-02-16T17:43:46.973811"
+  },
+  {
+    "kanji": "君",
+    "leitura": "クン (kun), きみ (kimi)",
+    "significado": "você, sufixo familiar, mestre",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-30T10:10:49.030080"
+  },
+  {
+    "kanji": "吝",
+    "leitura": "リン (rin), おしむ (oshimu)",
+    "significado": "mesquinho, avarento",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-02T00:17:30.803161"
+  },
+  {
+    "kanji": "吟",
+    "leitura": "ギン (gin)",
+    "significado": "recitar, cantar, examinar",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-03T20:13:57.717292"
+  },
+  {
+    "kanji": "否",
+    "leitura": "ヒ (hi), いな (ina)",
+    "significado": "não, negação, recusar",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-30T10:13:18.956068"
+  },
+  {
+    "kanji": "含",
+    "leitura": "ガン (gan), ふくむ (fukumu)",
+    "significado": "incluir, conter, manter na boca",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:07:34.908109"
+  },
+  {
+    "kanji": "吸",
+    "leitura": "キュウ (kyuu), すう (suu)",
+    "significado": "chupar, sugar, inspirar",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-29T13:37:09.289609"
+  },
+  {
+    "kanji": "吹",
+    "leitura": "スイ (sui), ふく (fuku)",
+    "significado": "soprar, emitir som",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-04T21:53:24.646326"
+  },
+  {
+    "kanji": "呂",
+    "leitura": "ロ (ro)",
+    "significado": "espinha dorsal, nota musical, banho (furo)",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:24:03.804534"
+  },
+  {
+    "kanji": "呈",
+    "leitura": "テイ (tei)",
+    "significado": "oferecer, apresentar, exibir",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:08:56.939470"
+  },
+  {
+    "kanji": "呉",
+    "leitura": "ゴ (go), くれる (kureru)",
+    "significado": "dar, presentear (clássico), dinastia Wu",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-02T00:14:15.534738"
+  },
+  {
+    "kanji": "告",
+    "leitura": "コク (koku), つげる (tsugeru)",
+    "significado": "avisar, informar, anunciar",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-02T09:26:18.740696"
+  },
+  {
+    "kanji": "呑",
+    "leitura": "ドン (don), のむ (nomu)",
+    "significado": "beber, engolir",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-02T03:01:09.072578"
+  },
+  {
+    "kanji": "周",
+    "leitura": "シュウ (shuu), まわり (mawari)",
+    "significado": "perímetro, arredores, circuito",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:08:04.563712"
+  },
+  {
+    "kanji": "味",
+    "leitura": "ミ (mi), あじ (aji)",
+    "significado": "sabor, gosto",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:22:21.020869"
+  },
+  {
+    "kanji": "呼",
+    "leitura": "コ (ko), よぶ (yobu)",
+    "significado": "chamar, convidar, suspirar"
+  },
+  {
+    "kanji": "命",
+    "leitura": "メイ (mei), ミョウ (myou), いのち (inochi)",
+    "significado": "vida, destino, decreto",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-04T21:58:27.563664"
+  },
+  {
+    "kanji": "和",
+    "leitura": "ワ (wa), オ (o), やわらぐ (yawaragu)",
+    "significado": "harmonia, paz, estilo japonês"
+  },
+  {
+    "kanji": "咲",
+    "leitura": "ショウ (shou), さく (saku)",
+    "significado": "florescer, desabrochar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:22:31.396671"
+  },
+  {
+    "kanji": "哀",
+    "leitura": "アイ (ai), あわれ (aware)",
+    "significado": "tristeza, piedade, pesar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-04T00:39:21.072122"
+  },
+  {
+    "kanji": "品",
+    "leitura": "ヒン (hin), しな (shina)",
+    "significado": "artigo, mercadoria, qualidade",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-09T23:04:17.796945"
+  },
+  {
+    "kanji": "員",
+    "leitura": "イン (in)",
+    "significado": "membro, funcionário, número de pessoas",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:07:40.108102"
+  },
+  {
+    "kanji": "哲",
+    "leitura": "テツ (tetsu)",
+    "significado": "filosofia, sabedoria",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-28T18:36:28.437157"
+  },
+  {
+    "kanji": "唄",
+    "leitura": "バイ (bai), うた (uta)",
+    "significado": "canção (tradicional), cantar",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-04T21:50:33.735502"
+  },
+  {
+    "kanji": "唆",
+    "leitura": "サ (sa), そそのかす (sosonokasu)",
+    "significado": "instigar, tentar, sugerir",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T13:51:47.800900"
+  },
+  {
+    "kanji": "唇",
+    "leitura": "シン (shin), くちびる (kuchibiru)",
+    "significado": "lábio",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-10T02:51:26.208934"
+  },
+  {
+    "kanji": "唐",
+    "leitura": "トウ (tou), から (kara)",
+    "significado": "dinastia Tang, China, estrangeiro",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-29T22:08:10.263206"
+  },
+  {
+    "kanji": "唯",
+    "leitura": "ユイ (yui), イ (i), ただ (tada)",
+    "significado": "apenas, somente, único",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-04T12:20:19.023635"
+  },
+  {
+    "kanji": "唱",
+    "leitura": "ショウ (shou), となえる (tonaeru)",
+    "significado": "cantar, recitar, proclamar",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-12T22:27:24.563903"
+  },
+  {
+    "kanji": "商",
+    "leitura": "ショウ (shou), あきなう (akinau)",
+    "significado": "comércio, negócio, vender",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:06:40.820557"
+  },
+  {
+    "kanji": "問",
+    "leitura": "モン (mon), とう (tou)",
+    "significado": "pergunta, problema, dúvida",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-02T15:25:17.161149"
+  },
+  {
+    "kanji": "啓",
+    "leitura": "ケイ (kei)",
+    "significado": "revelar, informar, abrir",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:20:15.485725"
+  },
+  {
+    "kanji": "善",
+    "leitura": "ゼン (zen), よい (yoi)",
+    "significado": "bondade, virtude, bom",
+    "nivel": 0,
+    "proxima_revisao": "2026-02-15T14:27:21.725332"
+  },
+  {
+    "kanji": "喚",
+    "leitura": "カン (kan), わめく (wameku)",
+    "significado": "gritar, clamar, convocar",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:02:29.463016"
+  },
+  {
+    "kanji": "喜",
+    "leitura": "キ (ki), よろこぶ (yorokobu)",
+    "significado": "alegria, regozijar-se",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T18:54:36.153857"
+  },
+  {
+    "kanji": "喝",
+    "leitura": "カツ (katsu)",
+    "significado": "gritar, repreender, ronco",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-30T10:14:16.467475"
+  },
+  {
+    "kanji": "喪",
+    "leitura": "ソウ (sou), も (mo)",
+    "significado": "luto, perda",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T21:46:17.609312"
+  },
+  {
+    "kanji": "喫",
+    "leitura": "キツ (kitsu), のむ (nomu)",
+    "significado": "consumir, fumar, comer",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:21:28.172991"
+  },
+  {
+    "kanji": "営",
+    "leitura": "エイ (ei), いとなむ (itonamu)",
+    "significado": "gestão, administrar, negócio",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T21:58:53.521312"
+  },
+  {
+    "kanji": "嘱",
+    "leitura": "ショク (shoku)",
+    "significado": "encarregar, confiar, pedir",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:02:02.575435"
+  },
+  {
+    "kanji": "噴",
+    "leitura": "フン (fun), ふく (fuku)",
+    "significado": "erupção, expelir, jorrar",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-25T20:54:30.737444"
+  },
+  {
+    "kanji": "噂",
+    "leitura": "うわさ (uwasa)",
+    "significado": "rumor, fofoca",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-10T20:19:50.174236"
+  },
+  {
+    "kanji": "噛",
+    "leitura": "コウ (kou), かむ (kamu)",
+    "significado": "morder, mastigar",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-04T21:53:14.302577"
+  },
+  {
+    "kanji": "囚",
+    "leitura": "シュウ (shuu), とらわれる (torawareru)",
+    "significado": "prisioneiro, capturado",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-11T20:13:41.203848"
+  },
+  {
+    "kanji": "四",
+    "leitura": "シ (shi), よん (yon)",
+    "significado": "quatro",
+    "nivel": 2,
+    "proxima_revisao": "2026-06-15T20:13:13.017448"
+  },
+  {
+    "kanji": "回",
+    "leitura": "カイ (kai), エ (e), まわる (mawaru)",
+    "significado": "girar, vez, retorno",
+    "nivel": 0,
+    "proxima_revisao": "2026-02-16T18:18:24.548491"
+  },
+  {
+    "kanji": "因",
+    "leitura": "イン (in), よる (yoru)",
+    "significado": "causa, fator, depender de",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-30T10:23:19.133921"
+  },
+  {
+    "kanji": "団",
+    "leitura": "ダン (dan), トン (ton)",
+    "significado": "grupo, associação, corpo",
+    "nivel": 0,
+    "proxima_revisao": "2026-04-02T00:33:10.704383"
+  },
+  {
+    "kanji": "困",
+    "leitura": "コン (kon), こまる (komaru)",
+    "significado": "problema, angústia, estar em apuros",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-28T10:53:19.567131"
+  },
+  {
+    "kanji": "囲",
+    "leitura": "イ (i), かこむ (kakomu)",
+    "significado": "cercar, rodear, cerco",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-29T20:06:09.895271"
+  },
+  {
+    "kanji": "図",
+    "leitura": "ズ (zu), ト (to), はかる (hakaru)",
+    "significado": "mapa, desenho, planejar",
+    "nivel": 0,
+    "proxima_revisao": "2026-05-01T22:26:18.561518"
+  },
+  {
+    "kanji": "固",
+    "leitura": "コ (ko), かためる (katameru)",
+    "significado": "duro, sólido, endurecer",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-28T18:37:21.812220"
+  },
+  {
+    "kanji": "国",
+    "leitura": "コク (koku), くに (kuni)",
+    "significado": "país, nação",
+    "nivel": 1,
+    "proxima_revisao": "2026-02-17T12:36:23.369555"
+  },
+  {
+    "kanji": "圏",
+    "leitura": "ケン (ken)",
+    "significado": "esfera, círculo, alcance",
+    "nivel": 0,
+    "proxima_revisao": "2026-06-03T22:07:44.707852"
+  },
+  {
+    "kanji": "園",
+    "leitura": "エン (en), その (sono)",
+    "significado": "jardim, parque",
+    "nivel": 1,
+    "proxima_revisao": "2026-06-04T21:59:46.730990"
+  },
+  {
+    "kanji": "土",
+    "leitura": "ド (do), ト (to), つち (tsuchi)",
+    "significado": "terra, solo",
+    "nivel": 0,
+    "proxima_revisao": "2026-03-23T00:43:40.106303"
+  }
+]
