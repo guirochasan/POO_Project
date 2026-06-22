@@ -1,0 +1,8 @@
+/home/gui-rocha/poo/POO_Project/src/kanji_app_C++/build/CMakeFiles/kanjiapp.dir
+/home/gui-rocha/poo/POO_Project/src/kanji_app_C++/build/CMakeFiles/separador.dir
+/home/gui-rocha/poo/POO_Project/src/kanji_app_C++/build/CMakeFiles/edit_cache.dir
+/home/gui-rocha/poo/POO_Project/src/kanji_app_C++/build/CMakeFiles/rebuild_cache.dir
+/home/gui-rocha/poo/POO_Project/src/kanji_app_C++/build/CMakeFiles/kanjiapp_autogen_timestamp_deps.dir
+/home/gui-rocha/poo/POO_Project/src/kanji_app_C++/build/CMakeFiles/kanjiapp_autogen.dir
+/home/gui-rocha/poo/POO_Project/src/kanji_app_C++/build/CMakeFiles/separador_autogen_timestamp_deps.dir
+/home/gui-rocha/poo/POO_Project/src/kanji_app_C++/build/CMakeFiles/separador_autogen.dir

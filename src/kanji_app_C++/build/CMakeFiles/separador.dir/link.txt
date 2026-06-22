@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/separador.dir/separador_autogen/mocs_compilation.cpp.o CMakeFiles/separador.dir/separador.cpp.o -o separador 

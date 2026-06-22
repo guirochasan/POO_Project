@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "KanjiAppSystem",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "kanjiapp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kanjiapp-22c8d1cd715f4b1e85ae.json",
+					"name" : "kanjiapp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kanjiapp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kanjiapp_autogen-5d723556f23903952b00.json",
+					"name" : "kanjiapp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kanjiapp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kanjiapp_autogen_timestamp_deps-9fca94a4a4570307ba04.json",
+					"name" : "kanjiapp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "separador::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-separador-e60afce2816f8785dba3.json",
+					"name" : "separador",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "separador_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-separador_autogen-f52d92ba4c4e1fd35ab1.json",
+					"name" : "separador_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "separador_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-separador_autogen_timestamp_deps-4aec9bdbf18d227bf3cb.json",
+					"name" : "separador_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/gui-rocha/poo/POO_Project/src/kanji_app_C++/build",
+		"source" : "/home/gui-rocha/poo/POO_Project/src/kanji_app_C++"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
