@@ -1,7 +1,7 @@
 # Sistema de Repetição Espaçada de Kanji (Kanji SRS)
 
-**Aluno:** [SEU NOME AQUI]  
-**Matrícula:** [SUA MATRÍCULA AQUI]  
+**Aluno:** Guilherme Rocha Sampaio  
+**Matrícula:** 20250019133 
 **Disciplina:** Programação Orientada a Objetos (UFPB 2026.1)  
 
 ---
