@@ -1,3 +1,0 @@
-/home/gui-rocha/programas em C/POO/POO_Project/POO_Project/build/CMakeFiles/meu-projeto.dir
-/home/gui-rocha/programas em C/POO/POO_Project/POO_Project/build/CMakeFiles/edit_cache.dir
-/home/gui-rocha/programas em C/POO/POO_Project/POO_Project/build/CMakeFiles/rebuild_cache.dir
